@@ -21,6 +21,9 @@ body {
   letter-spacing: -1.6px;
 }
 .set-bg {
-    background-image: url(./images/bottomtwo-sec-image.png);
-    background-repeat: no-repeat;
+  background-image: url(./images/bottomtwo-sec-image.png);
+  background-repeat: no-repeat;
+}
+.dd {
+  mix-blend-mode: luminosity !important;
 }
